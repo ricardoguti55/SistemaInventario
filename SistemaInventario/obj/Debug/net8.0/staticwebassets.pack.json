@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Allen\\Documents\\AplicacionesPuntoNet\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\a78edeec-8c27-4b1a-91e4-032d2361e4b7.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\a78edeec-8c27-4b1a-91e4-032d2361e4b7.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Allen\\Documents\\AplicacionesPuntoNet\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\ffb640d9-b881-4d35-b5d1-d6360d7ae7da.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\ffb640d9-b881-4d35-b5d1-d6360d7ae7da.JPG"
+    },
+    {
       "Id": "C:\\Users\\Allen\\Documents\\AplicacionesPuntoNet\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\bodega.js",
       "PackagePath": "staticwebassets\\js\\bodega.js"
     },
@@ -23,6 +31,10 @@
     {
       "Id": "C:\\Users\\Allen\\Documents\\AplicacionesPuntoNet\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\marca.js",
       "PackagePath": "staticwebassets\\js\\marca.js"
+    },
+    {
+      "Id": "C:\\Users\\Allen\\Documents\\AplicacionesPuntoNet\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\producto.js",
+      "PackagePath": "staticwebassets\\js\\producto.js"
     },
     {
       "Id": "C:\\Users\\Allen\\Documents\\AplicacionesPuntoNet\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\site.js",
