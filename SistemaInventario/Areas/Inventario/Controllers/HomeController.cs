@@ -17,7 +17,7 @@ namespace SistemaInventario.Areas.Inventario.Controllers
             _logger = logger;
             _unidadTrabajo = unidadTrabajo;
         }
-
+        // Se traen todos los productos para mostarlos en la página principal
         public async Task<IActionResult> Index()
         {
             IEnumerable<Producto> productoLista = await _unidadTrabajo.Producto.ObtenerTodos();
