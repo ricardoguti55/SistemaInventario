@@ -40,7 +40,7 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
-
+// Por defecto siempre se va a ingresar a la siguiente vista
 app.MapControllerRoute(
     name: "default",
     pattern: "{area=Inventario}/{controller=Home}/{action=Index}/{id?}");

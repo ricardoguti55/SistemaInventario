@@ -123,4 +123,5 @@ paket-files/
 .idea/
 *.sln.iml
 
-.vsidx
+*.vsidx
+.vs/SistemaInventario/FileContentIndex

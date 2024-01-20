@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\Sistemainventario.Utilidades\\SistemaInventario.Utilidades.csproj": {}
+    "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\Sistemainventario.Utilidades\\SistemaInventario.Utilidades.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\Sistemainventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
+    "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\Sistemainventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\Sistemainventario.Utilidades\\SistemaInventario.Utilidades.csproj",
+        "projectUniqueName": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\Sistemainventario.Utilidades\\SistemaInventario.Utilidades.csproj",
         "projectName": "SistemaInventario.Utilidades",
-        "projectPath": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\Sistemainventario.Utilidades\\SistemaInventario.Utilidades.csproj",
+        "projectPath": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\Sistemainventario.Utilidades\\SistemaInventario.Utilidades.csproj",
         "packagesPath": "C:\\Users\\Mari\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\Sistemainventario.Utilidades\\obj\\",
         "projectStyle": "PackageReference",
