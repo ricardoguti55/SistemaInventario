@@ -1,315 +1,315 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SistemaInventario.bundle.scp.css",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SistemaInventario.bundle.scp.css",
       "PackagePath": "staticwebassets\\SistemaInventario.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\icono.ico",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\icono.ico",
       "PackagePath": "staticwebassets\\imagenes\\icono.ico"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\icono.png",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\icono.png",
       "PackagePath": "staticwebassets\\imagenes\\icono.png"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\17453696-562e-4842-b83d-921803bfcb07.JPG",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\17453696-562e-4842-b83d-921803bfcb07.JPG",
       "PackagePath": "staticwebassets\\imagenes\\producto\\17453696-562e-4842-b83d-921803bfcb07.JPG"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\186b9ea5-3cc4-4adb-90d0-fc1281d1ed77.JPG",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\186b9ea5-3cc4-4adb-90d0-fc1281d1ed77.JPG",
       "PackagePath": "staticwebassets\\imagenes\\producto\\186b9ea5-3cc4-4adb-90d0-fc1281d1ed77.JPG"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\1eceb547-1f9b-473b-90b4-176827afbae7.JPG",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\1eceb547-1f9b-473b-90b4-176827afbae7.JPG",
       "PackagePath": "staticwebassets\\imagenes\\producto\\1eceb547-1f9b-473b-90b4-176827afbae7.JPG"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\4ae05c43-5bfe-46c8-b9ad-90e2e2931ba5.JPG",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\4ae05c43-5bfe-46c8-b9ad-90e2e2931ba5.JPG",
       "PackagePath": "staticwebassets\\imagenes\\producto\\4ae05c43-5bfe-46c8-b9ad-90e2e2931ba5.JPG"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\510527c7-3970-4ee8-b1ef-c7e5e2d53574.JPG",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\510527c7-3970-4ee8-b1ef-c7e5e2d53574.JPG",
       "PackagePath": "staticwebassets\\imagenes\\producto\\510527c7-3970-4ee8-b1ef-c7e5e2d53574.JPG"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\89e6f1ef-eac8-4d17-9471-195dd1c00607.JPG",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\89e6f1ef-eac8-4d17-9471-195dd1c00607.JPG",
       "PackagePath": "staticwebassets\\imagenes\\producto\\89e6f1ef-eac8-4d17-9471-195dd1c00607.JPG"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\a78edeec-8c27-4b1a-91e4-032d2361e4b7.JPG",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\a78edeec-8c27-4b1a-91e4-032d2361e4b7.JPG",
       "PackagePath": "staticwebassets\\imagenes\\producto\\a78edeec-8c27-4b1a-91e4-032d2361e4b7.JPG"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\b0662ef6-9f64-4163-9847-d2f2a0fd260f.JPG",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\b0662ef6-9f64-4163-9847-d2f2a0fd260f.JPG",
       "PackagePath": "staticwebassets\\imagenes\\producto\\b0662ef6-9f64-4163-9847-d2f2a0fd260f.JPG"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\bfde4244-ed73-484a-b73c-5681d803a581.JPG",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\bfde4244-ed73-484a-b73c-5681d803a581.JPG",
       "PackagePath": "staticwebassets\\imagenes\\producto\\bfde4244-ed73-484a-b73c-5681d803a581.JPG"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\e9f9e1c4-260e-466a-9934-a64e67ae47e7.JPG",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\e9f9e1c4-260e-466a-9934-a64e67ae47e7.JPG",
       "PackagePath": "staticwebassets\\imagenes\\producto\\e9f9e1c4-260e-466a-9934-a64e67ae47e7.JPG"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\ffb640d9-b881-4d35-b5d1-d6360d7ae7da.JPG",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\ffb640d9-b881-4d35-b5d1-d6360d7ae7da.JPG",
       "PackagePath": "staticwebassets\\imagenes\\producto\\ffb640d9-b881-4d35-b5d1-d6360d7ae7da.JPG"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\bodega.js",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\bodega.js",
       "PackagePath": "staticwebassets\\js\\bodega.js"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\categoria.js",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\categoria.js",
       "PackagePath": "staticwebassets\\js\\categoria.js"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\marca.js",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\marca.js",
       "PackagePath": "staticwebassets\\js\\marca.js"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\producto.js",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\producto.js",
       "PackagePath": "staticwebassets\\js\\producto.js"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

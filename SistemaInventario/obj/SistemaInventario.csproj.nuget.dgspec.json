@@ -11,7 +11,7 @@
         "projectName": "SistemaInventario.AccesoDatos",
         "projectPath": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj",
         "packagesPath": "C:\\Users\\Mari\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario.AccesoDatos\\obj\\",
+        "outputPath": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario.AccesoDatos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -106,7 +106,7 @@
         "projectName": "SistemaInventario.Modelos",
         "projectPath": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj",
         "packagesPath": "C:\\Users\\Mari\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\SistemaInventario.Modelos\\obj\\",
+        "outputPath": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario.Modelos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
