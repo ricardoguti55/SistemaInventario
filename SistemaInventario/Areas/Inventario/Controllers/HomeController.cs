@@ -19,8 +19,18 @@ namespace SistemaInventario.Areas.Inventario.Controllers
             _unidadTrabajo = unidadTrabajo;
         }
         // Se traen todos los productos para mostarlos en la página principal
-        public IActionResult Index(int pageNumber = 1)
+        public IActionResult Index(int pageNumber = 1, string busqueda="", string busquedaActual="")
         {
+            if (!String.IsNullOrEmpty(busqueda))
+            {
+                pageNumber = 1;
+            }
+            else
+            {
+                busqueda = busquedaActual;
+            }
+            ViewData["BusquedaActual"] = busqueda;
+
             if (pageNumber < 1) { pageNumber = 1; }
 
             Parametros parametros = new Parametros()
@@ -30,6 +40,12 @@ namespace SistemaInventario.Areas.Inventario.Controllers
             };
 
             var resultado = _unidadTrabajo.Producto.ObtenerTodosPaginado(parametros);
+
+            if (!String.IsNullOrEmpty(busqueda))
+            {
+                resultado = _unidadTrabajo.Producto.ObtenerTodosPaginado(parametros, p =>p.Descripcion.Contains(busqueda));
+            }
+
             ViewData["TotalPaginas"] = resultado.MetaData.TotalPages;
             ViewData["TotalRegistros"] = resultado.MetaData.TotalCount;
             ViewData["PageSize"] = resultado.MetaData.PageSize;
