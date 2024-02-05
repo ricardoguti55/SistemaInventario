@@ -3,10 +3,12 @@ using SistemaInventario.Utilidades;
 using SistemaInventario.AccesoDatos.Repositorio.IRepositorio;
 using SistemaInventario.Modelos;
 using SistemaInventario.Modelos.ViewModels;
+using Microsoft.AspNetCore.Authorization;
 
 namespace SistemaInventario.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = DS.Role_Admin + "," + DS.Role_Inventario)]
     public class ProductoController : Controller
     {
 

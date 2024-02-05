@@ -2,10 +2,12 @@
 using SistemaInventario.Utilidades;
 using SistemaInventario.AccesoDatos.Repositorio.IRepositorio;
 using SistemaInventario.Modelos;
+using Microsoft.AspNetCore.Authorization;
 
 namespace SistemaInventario.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = DS.Role_Admin)]
     public class MarcaController : Controller
     {
 
