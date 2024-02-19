@@ -1173,3 +1173,4 @@ C:\Users\Mari\source\repos\ricardoguti55\SistemaInventario\SistemaInventario\bin
 C:\Users\Mari\source\repos\ricardoguti55\SistemaInventario\SistemaInventario\obj\Debug\net8.0\SistemaInventario.csproj.CopyComplete
 C:\Users\Mari\source\repos\ricardoguti55\SistemaInventario\SistemaInventario\bin\Debug\net8.0\SendGrid.dll
 C:\Users\Mari\source\repos\ricardoguti55\SistemaInventario\SistemaInventario\bin\Debug\net8.0\StarkbankEcdsa.dll
+C:\Users\Mari\source\repos\ricardoguti55\SistemaInventario\SistemaInventario\bin\Debug\net8.0\libman.json
