@@ -1,6 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
 using SistemaInventario.AccesoDatos.Repositorio.IRepositorio;
-using SistemaInventario.Modelos;
 using SistemaInventario.Modelos.Especificaciones;
 using SistemaInventario.Modelos.ViewModels;
 using System.Diagnostics;
