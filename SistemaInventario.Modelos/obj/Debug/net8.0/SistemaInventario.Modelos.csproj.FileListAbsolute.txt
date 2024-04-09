@@ -630,9 +630,9 @@ C:\Users\Mari\Source\Repos\ricardoguti55\SistemaInventario\SistemaInventario.Mod
 C:\Users\Mari\Source\Repos\ricardoguti55\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net8.0\SistemaInventario.Modelos.AssemblyInfo.cs
 C:\Users\Mari\Source\Repos\ricardoguti55\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net8.0\SistemaInventario.Modelos.csproj.CoreCompileInputs.cache
 C:\Users\Mari\Source\Repos\ricardoguti55\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net8.0\SistemaInventario.Modelos.sourcelink.json
-C:\Users\Mari\Source\Repos\ricardoguti55\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net8.0\SistemaInventario.Modelos.csproj.CopyComplete
 C:\Users\Mari\Source\Repos\ricardoguti55\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net8.0\SistemaInventario.Modelos.dll
 C:\Users\Mari\Source\Repos\ricardoguti55\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net8.0\refint\SistemaInventario.Modelos.dll
 C:\Users\Mari\Source\Repos\ricardoguti55\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net8.0\SistemaInventario.Modelos.pdb
 C:\Users\Mari\Source\Repos\ricardoguti55\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net8.0\SistemaInventario.Modelos.genruntimeconfig.cache
 C:\Users\Mari\Source\Repos\ricardoguti55\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net8.0\ref\SistemaInventario.Modelos.dll
+C:\Users\Mari\source\repos\ricardoguti55\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net8.0\SistemaInventario.Modelos.csproj.CopyComplete

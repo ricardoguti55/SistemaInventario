@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace SistemaInventario.Modelos.Especificaciones
+﻿namespace SistemaInventario.Modelos.Especificaciones
 {
     public class PagesList<T> : List<T>
     {

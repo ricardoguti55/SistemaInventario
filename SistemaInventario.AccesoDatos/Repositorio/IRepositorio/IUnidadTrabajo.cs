@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace SistemaInventario.AccesoDatos.Repositorio.IRepositorio
+﻿namespace SistemaInventario.AccesoDatos.Repositorio.IRepositorio
 {
     public interface IUnidadTrabajo : IDisposable   // Permite deshacerse de cualquier recurso que ya no se esté usando
     {
@@ -16,6 +10,22 @@ namespace SistemaInventario.AccesoDatos.Repositorio.IRepositorio
         IProductoRepositorio Producto { get; }
 
         IUsuarioAplicacionRepositorio UsuarioAplicacion { get; }
+
+        IBodegaProductoRepositorio BodegaProducto { get; }
+
+        IInventarioRepositorio Inventario { get; }
+
+        IInventarioDetalleRepositorio InventarioDetalle { get; }
+
+        IKardexInventarioRepositorio KardexInventario { get; }
+
+        ICompaniaRepositorio Compania { get; }
+
+        ICarroCompraRepositorio CarroCompra { get; }
+
+        IOrdenRepositorio Orden { get; }
+
+        IOrdenDetalleRepositorio OrdenDetalle { get; }
 
         Task Guardar();
     }

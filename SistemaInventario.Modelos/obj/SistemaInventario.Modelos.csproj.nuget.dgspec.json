@@ -103,7 +103,7 @@
         "projectName": "SistemaInventario.Utilidades",
         "projectPath": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\Sistemainventario.Utilidades\\SistemaInventario.Utilidades.csproj",
         "packagesPath": "C:\\Users\\Mari\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mari\\Source\\Repos\\ricardoguti55\\SistemaInventario\\Sistemainventario.Utilidades\\obj\\",
+        "outputPath": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\Sistemainventario.Utilidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -162,6 +162,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.0, )"
+            },
+            "SendGrid": {
+              "target": "Package",
+              "version": "[9.29.1, )"
             }
           },
           "imports": [

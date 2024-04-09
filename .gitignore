@@ -125,3 +125,7 @@ paket-files/
 
 *.vsidx
 .vs/SistemaInventario/FileContentIndex
+
+**/ appsettings.json
+**/ obj
+**/ bin
