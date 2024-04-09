@@ -667,7 +667,6 @@ C:\Users\Mari\Source\Repos\ricardoguti55\SistemaInventario\SistemaInventario\bin
 C:\Users\Mari\Source\Repos\ricardoguti55\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
 C:\Users\Mari\Source\Repos\ricardoguti55\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
 C:\Users\Mari\Source\Repos\ricardoguti55\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Xml.dll
-C:\Users\Mari\Source\Repos\ricardoguti55\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\Mari\Source\Repos\ricardoguti55\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\Mari\Source\Repos\ricardoguti55\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.Abstractions.dll
 C:\Users\Mari\Source\Repos\ricardoguti55\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.dll
@@ -683,7 +682,6 @@ C:\Users\Mari\Source\Repos\ricardoguti55\SistemaInventario\SistemaInventario\bin
 C:\Users\Mari\Source\Repos\ricardoguti55\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\Microsoft.Extensions.Http.dll
 C:\Users\Mari\Source\Repos\ricardoguti55\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
 C:\Users\Mari\Source\Repos\ricardoguti55\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.dll
-C:\Users\Mari\Source\Repos\ricardoguti55\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\Mari\Source\Repos\ricardoguti55\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Configuration.dll
 C:\Users\Mari\Source\Repos\ricardoguti55\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Console.dll
 C:\Users\Mari\Source\Repos\ricardoguti55\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Debug.dll
@@ -1165,3 +1163,6 @@ C:\Users\Mari\source\repos\ricardoguti55\SistemaInventario\SistemaInventario\bin
 C:\Users\Mari\source\repos\ricardoguti55\SistemaInventario\SistemaInventario\bin\Debug\net8.0\Rotativa.AspNetCore.dll
 C:\Users\Mari\source\repos\ricardoguti55\SistemaInventario\SistemaInventario\bin\Debug\net8.0\Rotativa\Windows\wkhtmltoimage.exe
 C:\Users\Mari\source\repos\ricardoguti55\SistemaInventario\SistemaInventario\bin\Debug\net8.0\Rotativa\Windows\wkhtmltopdf.exe
+C:\Users\Mari\source\repos\ricardoguti55\SistemaInventario\SistemaInventario\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mari\source\repos\ricardoguti55\SistemaInventario\SistemaInventario\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mari\source\repos\ricardoguti55\SistemaInventario\SistemaInventario\bin\Debug\net8.0\Stripe.net.dll
