@@ -85,6 +85,10 @@
       "PackagePath": "staticwebassets\\js\\marca.js"
     },
     {
+      "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\orden.js",
+      "PackagePath": "staticwebassets\\js\\orden.js"
+    },
+    {
       "Id": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\producto.js",
       "PackagePath": "staticwebassets\\js\\producto.js"
     },
