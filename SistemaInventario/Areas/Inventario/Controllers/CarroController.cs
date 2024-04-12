@@ -5,6 +5,7 @@ using SistemaInventario.Modelos;
 using SistemaInventario.Modelos.ViewModels;
 using SistemaInventario.Utilidades;
 using Stripe.Checkout;
+using System.Collections.Generic;
 using System.Security.Claims;
 
 namespace SistemaInventario.Areas.Inventario.Controllers
@@ -214,7 +215,7 @@ namespace SistemaInventario.Areas.Inventario.Controllers
             Session session = service.Create(options);
             _unidadTrabajo.Orden.ActualizarPagoStripeId(carroCompraVM.Orden.Id, session.Id, session.PaymentIntentId);
             await _unidadTrabajo.Guardar();
-            Response.Headers.Add("Location", session.Url); //Redirecciona a Stripe
+            Response.Headers.Append("Location", session.Url); //Redirecciona a Stripe
             return new StatusCodeResult(303);
         }
 
