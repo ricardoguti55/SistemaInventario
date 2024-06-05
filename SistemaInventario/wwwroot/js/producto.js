@@ -1,6 +1,4 @@
-﻿let datatable;
-
-$(document).ready(function () {
+﻿$(document).ready(function () {
     loadDataTable();
 });
 
@@ -25,7 +23,7 @@ function loadDataTable() {
         },
         "columns": [
             { "data": "numeroSerie" },
-            { "data": "descripcion" },
+            { "data": "nombre" },
             { "data": "categoria.nombre" },
             { "data": "marca.nombre" },
             {

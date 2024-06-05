@@ -61,7 +61,7 @@
             {
                 <tr>
                     <td>
-                        @Html.DisplayFor(d => item.Producto.Descripcion)
+                        @Html.DisplayFor(d => item.Producto.Nombre)
                     </td>
                     <td>
                         @Html.DisplayFor(d => item.Producto.Marca.Nombre)
@@ -124,7 +124,7 @@
                         results: $.map(result, function (item) {
                             return {
                                 id: item.id,
-                                text: item.numeroSerie + ' ' + item.descripcion
+                                text: item.numeroSerie + ' ' + item.nombre
                             };
                         })
                     };

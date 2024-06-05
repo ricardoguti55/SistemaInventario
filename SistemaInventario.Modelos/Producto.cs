@@ -12,8 +12,12 @@ namespace SistemaInventario.Modelos
         [MaxLength(60, ErrorMessage = "Numero de Serie debe ser Máximo 60 Caracteres")]
         public string NumeroSerie { get; set; }
 
+        [Required(ErrorMessage = "Nombre es Requerido")]
+        [MaxLength(60, ErrorMessage = "Nombre debe ser Máximo 60 Caracteres")]
+        public string Nombre { get; set; }
+
         [Required(ErrorMessage = "Descripcion es Requerido")]
-        [MaxLength(60, ErrorMessage = "Descripcion debe ser Máximo 60 Caracteres")]
+        [MaxLength(200, ErrorMessage = "Descripcion debe ser Máximo 200 Caracteres")]
         public string Descripcion { get; set; }
 
         [Required(ErrorMessage ="Precio es Requerido")]

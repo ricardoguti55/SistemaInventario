@@ -84,6 +84,9 @@ namespace SistemaInventario.Areas.Admin.Controllers
                 case "completado":
                     todos = todos.Where(o => o.EstadoOrden == DS.EstadoEnviado); 
                     break;
+                case "pendiente":
+                    todos = todos.Where(o => o.EstadoOrden == DS.EstadoPendiente);
+                    break;
                 default:
                     break;
             }

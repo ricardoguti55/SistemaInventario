@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "uLhvU900A+cMer04YT7D6uWmVw73HyNmLtXuBjZ5djA=",
+  "Hash": "z8Sm7seq5+Y0Mv/FuWEzP/R/dKfPjhxGCpvttGF98hw=",
   "Source": "SistemaInventario",
   "BasePath": "_content/SistemaInventario",
   "Mode": "Default",
@@ -1573,6 +1573,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\categoria.js"
+    },
+    {
+      "Identity": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\datatable.js",
+      "SourceId": "SistemaInventario",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\",
+      "BasePath": "_content/SistemaInventario",
+      "RelativePath": "js/datatable.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\datatable.js"
     },
     {
       "Identity": "C:\\Users\\Mari\\source\\repos\\ricardoguti55\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\inventario.js",

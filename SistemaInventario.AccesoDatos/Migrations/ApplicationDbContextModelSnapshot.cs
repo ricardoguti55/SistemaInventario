@@ -652,8 +652,8 @@ namespace SistemaInventario.AccesoDatos.Migrations
 
                     b.Property<string>("Descripcion")
                         .IsRequired()
-                        .HasMaxLength(100)
-                        .HasColumnType("nvarchar(100)");
+                        .HasMaxLength(200)
+                        .HasColumnType("nvarchar(200)");
 
                     b.Property<bool>("Estado")
                         .HasColumnType("bit");
@@ -663,6 +663,11 @@ namespace SistemaInventario.AccesoDatos.Migrations
 
                     b.Property<int>("MarcaId")
                         .HasColumnType("int");
+
+                    b.Property<string>("Nombre")
+                        .IsRequired()
+                        .HasMaxLength(60)
+                        .HasColumnType("nvarchar(60)");
 
                     b.Property<string>("NumeroSerie")
                         .IsRequired()

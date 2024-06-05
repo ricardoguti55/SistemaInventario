@@ -33,9 +33,11 @@
                             <h2>$ @String.Format("{0:#,##0.00}", Model.Producto.Precio)</h2>
                         </p>
 
-                        <strong style="font-size: 20px;">@Model.Producto.Descripcion</strong>
+                        <strong style="font-size: 20px;">@Model.Producto.Nombre</strong>
 
                         <p>Serie: @Model.Producto.NumeroSerie</p>
+
+                        <p style="font-size: 15px;">Descripción: <br>@Model.Producto.Descripcion</p>
 
                         @if (Model.Stock == 0)
                         {

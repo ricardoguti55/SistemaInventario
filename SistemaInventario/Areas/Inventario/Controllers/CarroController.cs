@@ -162,7 +162,7 @@ namespace SistemaInventario.Areas.Inventario.Controllers
                                                                                  b.BodegaId == carroCompraVM.Compania.BodegaVentaId);
                 if (lista.Cantidad > producto.Cantidad)
                 {
-                    TempData[DS.Error] = "La Cantidad del Producto " + lista.Producto.Descripcion +
+                    TempData[DS.Error] = "La Cantidad del Producto " + lista.Producto.Nombre +
                                          " Excede al Stock actual (" + producto.Cantidad + ")";
                     return RedirectToAction("Index");
                 }
@@ -204,7 +204,7 @@ namespace SistemaInventario.Areas.Inventario.Controllers
                         Currency = "usd",
                         ProductData = new SessionLineItemPriceDataProductDataOptions
                         {
-                            Name = lista.Producto.Descripcion
+                            Name = lista.Producto.Nombre
                         }
                     },
                     Quantity = lista.Cantidad

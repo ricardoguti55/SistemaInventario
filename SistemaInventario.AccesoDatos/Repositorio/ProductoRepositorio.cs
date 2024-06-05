@@ -24,6 +24,7 @@ namespace SistemaInventario.AccesoDatos.Repositorio
                     productoDB.ImagenUrl = producto.ImagenUrl;
                 }
                 productoDB.NumeroSerie = producto.NumeroSerie;
+                productoDB.Nombre = producto.Nombre;
                 productoDB.Descripcion = producto.Descripcion;
                 productoDB.Precio = producto.Precio;
                 productoDB.Costo = producto.Costo;

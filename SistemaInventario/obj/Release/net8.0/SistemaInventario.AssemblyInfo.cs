@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SistemaInventario")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9843d9135843126e60c8aaaec302d56302a4c55f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+781282fca3d4b066e168e6f972b55eb79a3bd057")]
 [assembly: System.Reflection.AssemblyProductAttribute("SistemaInventario")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SistemaInventario")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
